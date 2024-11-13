@@ -8,7 +8,7 @@
 - Idee er en kopi av direkte opplevelse, dermed er det umulig å gjenoppleve en erfaring med tanker.
 
 #### Missing shade of blue
--Hume tokk opp en interresant eksempel, dette omhandler å vite andres art opplevelse.Uansett hvor mye forsker vet om andre art så kan dem ikke fullstendig vite hvordan de observere verden gjennom demmes sansene. Dermed har vi fått en ny forståelse om mennneskerkan ikke vite om hvordan andre tolke verden av det samme ting.
+- Dette betyr at uansett hvor flink man er i å forklare noe som andre har andri opplevd eller kjent, så vil den personen aldri forstå det fullstendig.
 
 #### ssociations or connections between ideas
 - Likhet : se bilde av et tre og få oss til å tenke på faktiske tre.
