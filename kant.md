@@ -1,6 +1,4 @@
 2. Hva er forstandens bidrag til erkjennelse / kunnskap?
-5. Hva er den «kopernikanske vendingen» i filosofi?
-6. Hva betyr «a priori» og «a posteriori»?
 7. Hva er forskjellen mellom «analytisk» og «syntetisk»?
 8. Hva er «syntetiske dommer a priori» ifølge Kant?
 9. Hva tenker Kant om selvet / jeget?
@@ -22,4 +20,11 @@ Erkjennelse kommer ikke fra eten det vi sanse eller en evne til å tolke sansein
 #### 4. Hvordan forklarer Kant kausalitet – i motsetning til Hume?
 Kant mente at årsak og grunn er en kategori som strukturere vår erfaring, mens Hume ser det som observasjon basert på erfaring.
 
-#### 5.
+#### 5. Hva er den «kopernikanske vendingen» i filosofi?
+- Det er en tenikk om hvordan vi observere verden, Kant menne at vi skal la verden rette seg etter vårt forståelse, istedenfor vi rette oss mot verden.
+
+#### 6. Hva betyr «a priori» og «a posteriori»?
+- a priori : Noe som vi ikke kan sense ( rom og tid ).
+- a posteriori : Alt som vi kan erfare med sansene.
+
+
