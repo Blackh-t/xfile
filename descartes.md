@@ -19,4 +19,10 @@ fordi han har opplevd at sansene har bedrag han, så mente han at man ikke kan a
 en metodisk for tvil.
 
 #### Kartesisk substandsdualisme
--
+- res congitans (Tenkende substands) : Menneskets følelser, minnner, bevisthet, "jeg"
+- res extensa (Utstrakt substands) :  Meterial, under fysikk loven.
+
+#### Jeg tenker, alså er Jeg
+Dette utsanget betyr at vi mennesker er en tenke vesen, og vi eksistere så lenge vi kan tenke.
+
+
