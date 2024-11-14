@@ -2,8 +2,7 @@
 2. Hvorfor diskuterer Nagel en flaggermus og dens erfaringer?
 3. Hva slags rolle spiler standpunkt («points of view») i erfaring og kunnskap?
 4. Hva er og gjør menneskets (og andre dyrs) bevissthet?
-5. Hvorfor må vi som mennesker tilskrive oss selvbevissthet i tillegg til
-bevissthet
+5. Hvorfor må vi som mennesker tilskrive oss selvbevissthet i tillegg til bevissthet
 
 ### What is like to be a Bat?
 
@@ -19,3 +18,12 @@ bevissthet
 #### Hva er og gjør menneskets ( og andre dyrs ) bevissthet?
 - Menneskets bevissthet gir oss indre erfaring, følenser, tanker. moral.
 
+#### hvorfor må vi som mennesker tilskrive oss selvbevissthet i tillegg til bevissthet
+- Evne til selv refleksjon
+- Bevissthet innebære erfaring av verden, at vi er bevisst om objekter, oss self som sanser.
+
+```
+For Kant så vil selvbevissthet bidrar til forståelse av oss selv, men Descartes er å være sikker på vårt eksistens.
+```
+
+selvbevisstheten bidrar til å danne egen identitet gjennom a priori
