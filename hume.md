@@ -14,6 +14,6 @@
 - Likhet : se bilde av et tre og få oss til å tenke på faktiske tre.
 - Årsak og virking : Ideer er koble sammen med andre, når vi oppfatte den ene som prsak til den andre. Denne forbindelse avgjøre for hvordan vi forstå verden basert på tidligere erfaring.
 
-#### Matter of fatc
+#### Matter of fact
 - ideforhold: Sannheter som kan forstå gjennom logikk alene, uten erfaring, absolutt kunnskap.
 - Fakta: Basert på erfaring og opplevelse.

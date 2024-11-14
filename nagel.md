@@ -16,4 +16,6 @@ bevissthet
 #### Rolle spill for standpunkt i erfaring og kunnskap
 - At alle har forskjellige evne til å tolke sansene, dette fører til alle har forskjellige erfaring.
 
+#### Hva er og gjør menneskets ( og andre dyrs ) bevissthet?
+- Menneskets bevissthet gir oss indre erfaring, følenser, tanker. moral.
 
