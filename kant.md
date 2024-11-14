@@ -40,6 +40,12 @@ En god vilje er ikke motivert av ønsker om belønning eller unngå straff, men 
 - Maksime er en unntak for moralsloven, dette betyr at vi alle menneske kan ha en unntak hvis og bare hvis det er i en nød og det kan gjøres til en global.
 
 ####  Hva er tilbøyeligheter (= Neigungen / inclinations)?
-- Det referer til menneskets naturlig ønsker, impulser("oppnå mål, makt, glede osv..."), som kan motivere handling.
+- Det referer til menneskets naturlig ønsker, impulser("oppnå mål, makt, glede osv..."), egoisme ("handle for egen gevist"), som kan motivere handling.
 
+#### Hva er et imperativ?
+- En kommando om hva man bør gjøre.
+  - Hypotetiske imperativ: En betingelse som gjelder kunn på et spesifikk ønske. (int i = 0; i > 2; i++)
+  - Kategoriske imperativ
+    - Univeraliseringen : Maksime reglen som bidrar til ingen konflikt.
+    - Menneskets som mål i seg selv: respektere andres egenverdi, og ikke hanlde andre som et middel.
 
